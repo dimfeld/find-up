@@ -2,5 +2,8 @@
 name = "find-up"
 version = "0.1.0"
 edition = "2024"
+description = "Find the nearest ancestor directory that contains a file or directory."
+license = "MIT"
+repository = "https://github.com/dimfeld/find-up"
 
 [dependencies]
